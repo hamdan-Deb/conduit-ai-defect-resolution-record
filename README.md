@@ -23,8 +23,7 @@ This repository showcases my completed full-stack solution and documentation for
   - Enhanced `ArticleService.create()` and `update()` to cross-reference submitted tags against the global `Tag` repository.
   - Dynamically instantiate and persist new `Tag` entities for any unrecognized tags during the database transaction flush.
 
-<img width="1535" height="819" alt="image" src="https://github.com/user-attachments/assets/da60a3b9-3960-428c-a54b-a40f09bf243d" />
-
+<img width="1535" height="819" alt="image" src="https://github.com/user-attachments/assets/b6d0e8e8-7468-474c-8f41-20a091269f01" />
 
 ---
 
